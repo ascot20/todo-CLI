@@ -1,6 +1,6 @@
-$$
+
 Todo List CLI Application
-$$
+
 This is a command-line interface (CLI) application for managing a todo list. It provides a simple and convenient way to add, update, and remove todo items directly from your terminal.
 
 Features
